@@ -7,7 +7,7 @@
   body {
     color :rgb(8, 180, 45);
     font-size: 20px;
-    font-family: "Ubuntu", sans-serif;
+    font-family: "Bebas Neue", sans-serif;
     line-height: 32px;
     background-image: radial-gradient(50% 30% ellipse at center top, #000000 0%, black), radial-gradient(60% 50% ellipse at center bottom, #000000 0%, #100a1c 100%);
     background-attachment: fixed;
