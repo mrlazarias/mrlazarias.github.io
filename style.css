@@ -227,3 +227,8 @@
 icon:hover i {
   transform: scale(1.1);
 }
+
+#rs{
+  text-align: start;
+  padding-left: 110px;
+}
