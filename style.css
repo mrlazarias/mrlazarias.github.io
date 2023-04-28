@@ -232,3 +232,8 @@ icon:hover i {
   text-align: start;
   padding-left: 110px;
 }
+
+.footer{
+  display: flex;
+  justify-content: center;
+}
